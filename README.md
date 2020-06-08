@@ -4,10 +4,10 @@ TODO-list aplication THAT ALLOWS AN USER TO CREATE, DELETE MARK AND SORT TODOS I
 
 **Contains the following fucntions:**
 * Show a list of todos.
-* Add a new todo.
-* Delete a todo.
+* Add a new todo-item.
+* Delete a todo-item.
 * Move a todo-item up or down in the list.
 * Mark a todo-item as finished.
 
-<img src="screenshot/screenshot.png" width="1000
+<img src="screenshot/screenshot.png" width="1000">
 
